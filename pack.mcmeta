@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "min_format": [88, 0],
+    "max_format": [214748364, 0],
+    "description": "Furry Language pack by Fuz!"
+  },
+  "language": {
+    "fu_ry": {
+      "name": "Fuwwy Speak",
+      "region": "Yiffland",
+      "bidirectional": false
+    }
+  }
+}
